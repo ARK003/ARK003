@@ -2,7 +2,7 @@
 - 👀 I’m interested in .Net Frameworks, MVC core for web development
 - 🌱 I’m currently learning .Net Framework, Software Product Managment
 - 💞️ I’m looking to collaborate on .Net Frame work
-- 📫 How to reach me ahmedrazakhan@caretekcenter.com
+- 📫 How to reach me arkhan3737@gmail.com
 
 <!---
 ARK003/ARK003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
